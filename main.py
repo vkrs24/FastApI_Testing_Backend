@@ -20,7 +20,7 @@ try:
     db = connector.connect(
         host="sql.freedb.tech",
         user="freedb_ListenX",
-        port=3306,
+        port="3306",
         password="#C!H7sRcvTr9vFU",
         database="freedb_ListenX"
     )
