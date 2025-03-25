@@ -4,4 +4,4 @@ passlib
 mysql-connector-python
 bcrypt 
 python-jose[cryptography] 
-passlib
+gunicorn
